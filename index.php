@@ -3,8 +3,7 @@
 <body>
 
 <h1>My first PHP page! 
-Thanks
-Asheesh Jain
+welcome
 </h1>
 
 <?php
